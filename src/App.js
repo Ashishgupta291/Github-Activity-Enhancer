@@ -128,11 +128,15 @@ const App = () => {
           <div className="mt-4">
             <p>Step 1: Go to your GitHub Dashboard-> Settings-> Developer settings-> Personal access tokens-> Tokens (Classic)-> Generate new token.</p>
             <img src="step1.png" alt="Step 1" className="img-fluid mb-2" style={{ maxWidth: '100%' }} />
-            <img src="step3.png" alt="Step 2" className="img-fluid mb-2" style={{ maxWidth: '100%' }} />
+            <img src="step3.png" alt="Step 1" className="img-fluid mb-2" style={{ maxWidth: '100%' }} />
           </div>
           <div className="mt-4">
             <p>Step 2: Generate Token and copy Generated token. (you may delete it once enhancement is done.)</p>
             <img src="step2.png" alt="Step 2" className="img-fluid mb-2" style={{ maxWidth: '100%' }} />
+          </div>
+          <div className="mt-4">
+            <h2>Before and After Enhancement Result Sample</h2>
+            <img src="result.jpeg" alt="result" className="img-fluid mb-2" style={{ maxWidth: '100%' }} />
           </div>
           
         </div>
