@@ -57,6 +57,17 @@ const App = () => {
 
   return (
     <div className="container mt-5">
+    
+      {/* Logo at the top */}
+      <div className="text-center">
+        <img
+          src={`${process.env.PUBLIC_URL}/logo.png`} // Replace with the actual path to your logo
+          alt="GitHub Activity Enhancer Logo"
+          className="img-fluid mb-4"
+          style={{ maxWidth: '100px' }}
+        />
+      </div>
+          
       <h1 className="text-center">GitHub Activity Enhancer</h1>
       <div className="card p-4 shadow mt-4">
         <div className="mb-3">
