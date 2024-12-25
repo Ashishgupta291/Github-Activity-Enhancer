@@ -1,2 +1,2 @@
 # Github-Activity-Enhancer
-# https://github-activity-enhancer.onrender.com/
+# github-activity-enhancer.onrender.com
